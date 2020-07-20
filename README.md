@@ -1,3 +1,5 @@
+<img align="right" width="440" height="345" src="https://i.imgur.com/ejYb4K7.png">
+
 # Sandro Santos 👨‍💻
 
 ### Hello! 👋 welcome to my profile 
