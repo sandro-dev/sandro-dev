@@ -1,5 +1,7 @@
 # Sandro Santos 👨‍💻
 
+<img align="right" width="400" height="400" src="https://image.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg">
+
 ### Hello! 👋 welcome to my profile 
 
 I'm a Full-Stack Developer with 12 years of experience
@@ -17,7 +19,7 @@ I'm a Full-Stack Developer with 12 years of experience
   - PHP, Yii Framework, Wordpress
   
 
-- 💻📱 Front-end and mobile technologies: ReactJS
+- 💻📱 Front-end and mobile technologies:
   - HTML, CSS, Bootstrap, FlexBox
   - ReactJS, React Native, React Redux, Redux Saga
   - JavaScript, TypeScript, JSON, jQuery
