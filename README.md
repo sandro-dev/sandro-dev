@@ -6,26 +6,28 @@ I'm a Full-Stack Developer with 12 years of experience
 
 - 📌 Skills: JavaScript, TypeScript, HTML, CSS, PHP, SQL
 
-- 🖥  Backend Skills:
-  · Node.JS, Express.io
-  · REST API, JSON Web Token, Docker containers
-  · Database (MySQL, PostgreSQL, MongoDb, Redis, SQLite)
-  · TypeORM, Sequelize, Migrations and Seeds
-  · Asynchronous Queue Management (Bee-Quee and Redis)
-  · Nodemailer, Handlebars
-  · Test-driven development (TDD) and Jest Framework
-  · PHP, Yii Framework, Wordpress
+- 🖥 Back-end technologies:
+  - Node.JS, Express.io
+  - REST API, JSON Web Token, Docker containers
+  - Database (MySQL, PostgreSQL, MongoDb, Redis, SQLite)
+  - TypeORM, Sequelize, Migrations and Seeds
+  - Asynchronous Queue Management (Bee-Quee and Redis)
+  - Nodemailer, Handlebars
+  - Test-driven development (TDD) and Jest Framework
+  - PHP, Yii Framework, Wordpress
+  
 
-- 💻 front-end and mobile technologies: ReactJS
+- 💻📱 Front-end and mobile technologies: ReactJS
+  - HTML, CSS, Bootstrap, FlexBox
+  - ReactJS, React Native, React Redux, Redux Saga
+  - JavaScript, TypeScript, JSON, jQuery
+  - Maps API's (Google Maps, Mapbox, Leaflet)
+  - Apache Cordova, Ionic, Framework 7
+  
 
-· HTML, CSS, Bootstrap, FlexBox
-· ReactJS, React Native, React Redux, Redux Saga
-· JavaScript, TypeScript, JSON, jQuery
-· Maps API's (Google Maps, Mapbox, Leaflet)
-· Apache Cordova, Ionic, Framework 7
-
-- 🌱 I’m currently learning SOLID concepts
+- 📚 I’m currently studying SOLID and DDD concepts
 - 📫 How to reach me: sandro.dev@gmail.com
+
 
 
  ----
