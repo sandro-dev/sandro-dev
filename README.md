@@ -32,4 +32,16 @@ I'm a Full-Stack Developer with 12 years of experience
 
  ----
 
-![Github Badge](https://img.shields.io/badge/-sandrodev-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sandro-dev) ![Linkedin Badge](https://img.shields.io/badge/-sandrodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrossantos/) ![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandro.dev@gmail.com) ![Instagram Badge](https://img.shields.io/badge/-@sandrosss-yellow?style=flat-square&labelColor=yellow&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrosss/)
+[![Github Badge](https://img.shields.io/badge/-sandrodev-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sandro-dev)](https://github.com/sandro-dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-sandrodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrossantos/)](https://www.linkedin.com/in/sandrossantos/) 
+
+
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandro.dev@gmail.com)](mailto:sandro.dev@gmail.com)
+
+
+[![Instagram Badge](https://img.shields.io/badge/-@sandrosss-yellow?style=flat-square&labelColor=yellow&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrosss/)](https://www.instagram.com/sandrosss/)
+
+
+
+
