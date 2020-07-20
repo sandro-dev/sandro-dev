@@ -1,4 +1,4 @@
-<img align="right" width="440" height="345" src="https://i.imgur.com/3zh5rpd.png">
+<img align="right" width="440" height="345" src="https://i.imgur.com/U2ewqw4.png">
 
 # Sandro Santos 👨‍💻
 
