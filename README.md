@@ -2,9 +2,9 @@
 
 # Sandro Santos 👨‍💻
 
-### Hello! 👋 welcome to my profile 
+### Hello! 👋 Welcome to my profile!
 
-I'm a Full-Stack Developer with 12 years of experience
+I'm a Full-Stack Developer with 12 years of experience.
 
 - 📌 Skills: JavaScript, TypeScript, HTML, CSS, PHP, SQL
 
