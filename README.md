@@ -38,10 +38,10 @@
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/sandro-dev/)
 
 **Back-end**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-dff9fb?style=flat-square&logo=Node.js&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
-[![Yii Framework](https://img.shields.io/badge/-Yii%20Framework-black?style=flat-square&logo=yii&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
-[![REST API](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
+[![Yii Framework](https://img.shields.io/badge/-Yii%20Framework-237b9f?style=flat-square&logo=yii&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
+[![REST API](https://img.shields.io/badge/-REST%20API-1faf86?style=flat-square&logo=rest&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![Swagger](https://img.shields.io/badge/-Swagger-dff9fb?style=flat-square&logo=swagger&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![typeORM](https://img.shields.io/badge/-typeORM-cc433e?style=flat-square&logo=typeORM&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![sequelizeORM](https://img.shields.io/badge/-SequelizeORM-596275?style=flat-square&logo=sequelize&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
@@ -54,7 +54,7 @@
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![Sentry](https://img.shields.io/badge/-Sentry-9b59b6?style=flat-square&logo=sentry&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
-[![Jest](https://img.shields.io/badge/-Jest-8e44ad?style=flat-square&logo=jest&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
+[![Jest](https://img.shields.io/badge/-Jest-bf3a12?style=flat-square&logo=jest&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 
 
 **Database**
