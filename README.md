@@ -1,4 +1,4 @@
-### Hi! I'm Sandro Santos 👋
+### Hi! I'm Sandro Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Github Badge](https://img.shields.io/badge/-sandrodev-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sandro-dev)](https://github.com/sandro-dev) [![Linkedin Badge](https://img.shields.io/badge/-Sandro%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrossantos/)](https://www.linkedin.com/in/sandrossantos/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandro.dev@gmail.com)](mailto:sandro.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@sandrosss-yellow?style=flat-square&labelColor=yellow&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrosss/)](https://www.instagram.com/sandrosss/)
 
 ## About me
@@ -84,6 +84,13 @@
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/sandro-dev/)](https://github.com/sandro-dev/)
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=sandro-dev&show_icons=true">
 
 
 ⭐️ From [Sandro Santos](https://github.com/sandro-dev)
