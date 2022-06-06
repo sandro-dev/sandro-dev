@@ -1,10 +1,9 @@
-### Hi! I'm Sandro Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi! I'm Sandro Santos 
 [![Github Badge](https://img.shields.io/badge/-sandrodev-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sandro-dev)](https://github.com/sandro-dev) [![Linkedin Badge](https://img.shields.io/badge/-Sandro%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-dev)](https://www.linkedin.com/in/sandro-dev) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandro.dev@gmail.com)](mailto:sandro.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@sandro_dev-yellow?style=flat-square&labelColor=yellow&logo=instagram&logoColor=white&link=https://www.instagram.com/sandro_dev/)](https://www.instagram.com/sandro_dev/)
 
 ## About me
 - 👨‍💻 I'm a FullStack Developer with more ten years of experience.
 - 📌 Skills: JavaScript, TypeScript, React, React Native, HTML, CSS, PHP, SQL
-- 📚 I’m currently studying SOLID and DDD concepts
 - 📫 How to reach me: sandro.dev@gmail.com
 
 ## Languages and Technologies I use daily
