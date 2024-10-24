@@ -1,7 +1,7 @@
 ### Hi! I'm Sandro Santos 
 
 - 👨‍💻 I'm a FullStack Developer with more ten years of experience.
-- 📌 Skills: JavaScript, TypeScript, React, React Native, HTML, CSS, PHP, SQL
+- 📌 Skills: JavaScript, TypeScript, React, React Native, HTML, CSS, PHP, SQL, Golang, Python
 - 📫 How to reach me: sandro.dev@gmail.com | https://www.linkedin.com/in/sandro-dev
 
 --
